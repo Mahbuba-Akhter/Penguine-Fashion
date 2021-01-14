@@ -1,0 +1,65 @@
+.nav-logo img{
+    height:40px;
+    }
+
+.header-area{
+    background-color: #FFFBF0;
+}
+
+.banner-text1{
+    color:#fabe4c;
+    font-size: 55px;
+    font-weight: bold;
+    margin-top: 10%;
+}
+.banner-text2{
+    font-size: 55px;
+    font-weight: bold;
+    color:#363958;
+}
+.button-color{
+    font-family: 'Poppins', sans-serif;
+    font-size:15px;
+    color:white;
+    background-color: #93ad2e;
+    padding:10px 12px;
+    border-radius: 10px;
+    border:none;  
+}
+.banner-img img{
+    width: 90%;
+    height:490px;
+    margin-bottom: 50px;
+}
+   /******Card-Area******/
+.jacket{
+    overflow: hidden;
+}
+.text{
+    font-weight: bold;
+}
+
+.card img{
+  height:270px;
+  width: 262px;
+  margin-left: 45px;
+  background-color: #e7e2db;
+  border-radius: 12px;
+}
+.money{
+    color:#e9b659;
+    font-weight: bold;
+    font-size: 33px;    
+}
+.bottom-img{
+    width: 70px;  
+}
+.about-section{
+   width: 95%;
+   height: 120px;
+  }
+.about-img img{
+  width: 100%;
+  height: 300px;
+  margin-top: 8%;
+}
